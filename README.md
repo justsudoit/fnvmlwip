@@ -21,10 +21,23 @@ Wabbajack Modlist Installer by physicsgaming.
 
 ## Preamble
 
-**Title WIP** is a Fallout New Vegas modlist that aims to freshen up the visuals and core gameplay for a modern audience.
+**Title WIP** is a Fallout New Vegas modlist that aims to freshen up the visuals and core gameplay for a modern audience, featuring:
+ - Hundreds of high quality models and textures (very few vanilla assets remain in place)
+ - A complete overhaul of weather and lighting
+ - A revamped sound track, with many new songs and ambient sounds
+ - Many new locations to explore
+ - Many overhauls to existing locations
+ - Modern, high quality reload/attack animations for every weapon in the game
+ - New animations for many misc. actions, such as interacting with world objects, using ingestibles, etc.
+ - New gameplay mechanics such as weapon bashing, sprinting and leaning
+ - Picture in picture scopes
+ - Fast paced, lethal combat
+ - Extensive custom patching and balance tweaks to make the hundreds of included mods feel like a consistent, cohesive experience
 
 
 ## System Requirements
+
+Only the english Steam and GOG versions of the game are supported. Any other versions of the game will not work.
 
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run Wabbajack.
 
