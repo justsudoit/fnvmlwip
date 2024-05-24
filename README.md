@@ -52,7 +52,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 |:--------------:|:-------------:|
 | CPU | 8th Generation i5 or better/equivalent
 | Ram | 16GB DDR4 Ram  + 40GB Pagefile 
-| Storage | SATA SSD or higher
+| Storage | 250GB Solid State Drive
 | GPU | A card with 8GB VRAM or higher
 
 Space required: ~30GB Download Size ~30GB install Size ~60GB Total
