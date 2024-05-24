@@ -4,7 +4,7 @@ Wabbajack Modlist Installer by physicsgaming.
 
 <table stlyle="border: none;">
 <tr>
-<td><a href="https://example.com">Changelog</a></td>
+<td><a href="https://github.com/justsudoit/fnvmlwip/blob/main/Changelog.md">Changelog</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
 <td><a href="https://loadorderlibrary.com">Load Order Library</a></td>
 <td><a href="https://discord.gg"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
