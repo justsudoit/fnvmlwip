@@ -164,6 +164,8 @@ To see the keybinds for mouse and keyboard, press 'k' while at the pause menu.
 
 For controller, see the Control Map pdf in the modlist folder.
 
+There are a couple of keybinds setup to use thumb buttons on a mouse (buttons 4 and 5, aka forward and backward). They are weapon bashing and walk/run toggle respectively. If you do not have a mouse with thumb buttons, you can rebind run in the settings/controls menu and the weapon bashing hot key is in the MCM under B42 Bash.
+
 
 ### Gameplay Tips
 
@@ -177,7 +179,7 @@ For controller, see the Control Map pdf in the modlist folder.
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list, but you do NOT need to perform the Post Installation steps. Simply make sure your paths are the same as where you installed the list and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+Updating is like installing the list, but you do NOT need to perform the Post Installation steps. Simply make sure your paths are the same as where you installed the list and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. Also, your keybinds will be reset to the defaults that I set up for the list, so if you customize your keybinds you will need to redo that after an update.
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
