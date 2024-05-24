@@ -49,7 +49,7 @@ See how to setup a page file here: https://www.tomshardware.com/news/how-to-mana
 
 ## Installation
 
-Installing **Title WIP** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
+Installing **Title WIP** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 
 ### Pre-Installation
