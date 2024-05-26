@@ -129,6 +129,8 @@ It is possible that you may encounter an error with Wabbajack when installing. S
    - For the path to your Fallout New Vegas installation, point it to the Stock Game Folder
    -  For the path where your decompressed BSAs should be stored, point it to \<modlist folder\>\\mods\\\[NoDelete\] Decompressed BSAs
    -  [Example](https://raw.githubusercontent.com/justsudoit/fnvmlwip/main/pictures/BSA%20Decompressor.png)
+  
+**Only after completeing steps 1-3 above are you ready to run ModOrganizer.exe**
 
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT
 
